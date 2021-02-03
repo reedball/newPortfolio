@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+.myName {
+    margin-left: 10px;
+}
+.rightlinks {
+    position: absolute;
+    right: 30px;
+}
+.backgroundImage {
+    width: 100%;
+    height: auto;
+}
